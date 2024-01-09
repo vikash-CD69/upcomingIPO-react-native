@@ -25,8 +25,8 @@ Node.js installed on your machine
 ## Installation
 
 1 - Clone the repository:
-    LINK - https://gitlab.com/alok0888756/ipo-assesment.git
-    git clone https://gitlab.com/alok0888756/ipo-assesment.git
+    LINK - https://github.com/vikash-CD69/upcomingIPO-react-native
+    git clone https://github.com/vikash-CD69/upcomingIPO-react-native.git
 2 - go to root directory of the project
     cd ipo-assesment
 3 - download the required dependencies (node modules)
